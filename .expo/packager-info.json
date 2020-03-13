@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 27867,
+  "expoServerNgrokUrl": "https://wg-xnc.anonymous.tempo-agora.exp.direct",
+  "packagerNgrokUrl": "https://packager.wg-xnc.anonymous.tempo-agora.exp.direct",
+  "ngrokPid": 27893,
+  "webpackServerPort": 19006
+}
